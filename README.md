@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on something that i myself don't even know. Let the wind of growth guide me to mountain of achievements where only egoists exist!
+🔭 I’m currently working on something that i myself don't even know. Let the wind of growth guide me to mountain of knowledge!
 
 # Contributions:
 
