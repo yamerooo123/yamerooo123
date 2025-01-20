@@ -3,8 +3,7 @@
 
 # Achievements:
 
-- **Women Thailand Cyber Top Talent 2024**: Junior and Open challenge labs creator **[Web]**.
-- **Monash University Bug Bounty Program**: Help secure Monash university by reporting a vulnerability through Bugcrowd
+- **Women Thailand Cyber Top Talent 2024**: Junior and Open challenge labs creator **[Web]**. 
 
 
 ## 🌐 Socials:
