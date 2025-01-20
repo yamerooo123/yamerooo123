@@ -40,7 +40,7 @@
 | **Category**              |   **Count** |
 |---------------------------|------------------------------------------------|
 | **Cross-Site Scripting (XSS)** | 2 |
-| **Authentication Bypass** | 1 | 
+| **Authentication Bypass** | 2 | 
 | **Remote Code Execution** | 2 |
 | **Privilege Escalation**  | 1          | 
 
