@@ -7,7 +7,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suphawith-phusanbai-39304628b/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suphawith-phusanbai-39304628b/)
+[![Bugcrowd](https://img.shields.io/badge/bugcrowd-FF4F00?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/WolfgangGrimmer)
+
 
 # 💻 Skillsets:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
