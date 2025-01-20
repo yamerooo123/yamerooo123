@@ -17,11 +17,14 @@
 ![Burp Suite](https://img.shields.io/badge/burp%20suite-FF5722?style=for-the-badge&logo=burp%20suite&logoColor=white)
 ![Sysinternals](https://img.shields.io/badge/sysinternals-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
 
+## 🎓 Certifications
+<img src="https://github.com/user-attachments/assets/de1f83b4-a24d-4dba-b8f8-aafe98455997" alt="Certification" width="200" />
+
+<img src="https://github.com/user-attachments/assets/61d3ee8c-0be5-48cf-951f-c7f9b1084082" alt="Certification" width="200" />
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yameroo123&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yameroo123&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yameroo123&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
