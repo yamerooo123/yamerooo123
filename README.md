@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on something that i myself don't even know. Let the wind of growth guide me to mountain of achievements where only egoists exist!
 
-# Achievements:
+# Contributions:
 
 - **Women Thailand Cyber Top Talent 2024**: Junior and Open challenge labs creator **[Web]**. 
 
