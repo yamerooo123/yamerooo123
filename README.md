@@ -17,10 +17,19 @@
 ![Burp Suite](https://img.shields.io/badge/burp%20suite-FF5722?style=for-the-badge&logo=burp%20suite&logoColor=white)
 ![Sysinternals](https://img.shields.io/badge/sysinternals-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
 
-## 🎓 Certifications
+## 🎓 Certifications:
 <img src="https://github.com/user-attachments/assets/de1f83b4-a24d-4dba-b8f8-aafe98455997" alt="Certification" width="200" />
 
 <img src="https://github.com/user-attachments/assets/61d3ee8c-0be5-48cf-951f-c7f9b1084082" alt="Certification" width="200" />
+
+<img src="https://github.com/user-attachments/assets/571ad5eb-f191-4ed2-ae2c-6a7fd7f652e8" alt="Certification" width="200" />
+
+<img src="https://github.com/user-attachments/assets/313b2170-32be-47fe-b5a7-4526566ad810" alt="Certification" width="200" />
+
+
+
+
+
 
 
 
