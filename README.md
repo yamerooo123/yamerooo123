@@ -1,11 +1,15 @@
 # 💫 About Me:
 🔭 I’m currently working on something that i myself don't even know. Let the wind of growth guide me to mountain of achievements where only egoists are struggling!
 
+# Achievements:
+
+- **Women Thailand Cyber Top Talent 2024**: Junior and Open challenge labs creator **[Web]**.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suphawith-phusanbai-39304628b/) 
 
-# 💻 Skillset:
+# 💻 Skillsets:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -27,6 +31,18 @@
 <img src="https://github.com/user-attachments/assets/313b2170-32be-47fe-b5a7-4526566ad810" alt="Certification" width="200" />
 
 
+## 🏆 CVE Contributions
+
+<h3>🌟 Achievements: 7/100 CVEs 🌟</h3>
+
+<p> Check out my work: https://github.com/yamerooo123/CVE </p>
+
+| **Category**              |   **Count** |
+|---------------------------|------------------------------------------------|
+| **Cross-Site Scripting (XSS)** | 2 |
+| **Authentication Bypass** | 1 | 
+| **Remote Code Execution** | 2 |
+| **Privilege Escalation**  | 1          | 
 
 
 
