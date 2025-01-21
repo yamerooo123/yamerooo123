@@ -1,5 +1,5 @@
 # 💫 About Me: A lazy pentester...
-🔭 I’m currently working on something that i myself don't even know. Let the wind of growth guide me to mountain of knowledge!
+🔭 I’m currently working on something that i myself don't even know. Let the wind of growth guide me to the mountains of knowledge!
 
 # 🛡️ Contributions:
 
