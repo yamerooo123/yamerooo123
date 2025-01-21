@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: A lazy pentester...
 🔭 I’m currently working on something that i myself don't even know. Let the wind of growth guide me to mountain of knowledge!
 
 # Contributions:
@@ -48,10 +48,3 @@
 
 
 
-
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
