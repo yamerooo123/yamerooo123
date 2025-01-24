@@ -1,7 +1,7 @@
 # 💫 About Me: A lazy pentester...
 🔭 I’m currently working on something that i myself don't even know. Let the wind of growth guide me to the mountains of knowledge!
 
-# 🛡️ Contributions:
+# 🛡️ Major Contributions:
 
 - **Women Thailand Cyber Top Talent 2024**: Junior and Open challenge labs creator **[Web]**.
 - **CVE-2024-57276**: Dragon Age Origins - Local Privilege Escalation **[Electronic Art]**. 
