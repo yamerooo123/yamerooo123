@@ -11,11 +11,7 @@
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suphawith-phusanbai-39304628b/)
 [![Bugcrowd](https://img.shields.io/badge/bugcrowd-FF4F00?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/WolfgangGrimmer)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1741753)
-
-# :rotating_light: Bug Bounty Programs & Vulnerability Disclosure Programs:
-
-- **National Aeronautics and Space Administration(NASA):** Content 
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1741753) 
 
 # 💻 Skillsets:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
