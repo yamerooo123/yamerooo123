@@ -13,6 +13,9 @@
 [![Bugcrowd](https://img.shields.io/badge/bugcrowd-FF4F00?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/WolfgangGrimmer)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1741753)
 
+# :rotating_light: Bug Bounty Programs & Vulnerability Disclosure Programs:
+
+- **National Aeronautics and Space Administration(NASA):** Content 
 
 # 💻 Skillsets:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -49,5 +52,11 @@
 | **Remote Code Execution** | 2 |
 | **Privilege Escalation**  | 2          | 
 
+#  :rotating_light: Bug Bounty Programs & Vulnerability Disclosure Programs:
+<p> My Bugcrowd Profile: https://bugcrowd.com/SuphawithPhusanbai (Will try my best to gitgud)</p>
 
-
+| **Category**              |   **Count** |
+|---------------------------|------------------------------------------------|
+| **Server-Side Injection** | 2 |
+| **Server Security Misconfiguration** | 2 | 
+| **Sensitive Data Exposure** | 1 |
