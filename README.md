@@ -10,7 +10,7 @@
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suphawith-phusanbai-39304628b/)
-[![Bugcrowd](https://img.shields.io/badge/bugcrowd-FF4F00?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/WolfgangGrimmer)
+[![Bugcrowd](https://img.shields.io/badge/bugcrowd-FF4F00?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/SuphawithPhusanbai)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1741753) 
 
 # 💻 Skillsets:
