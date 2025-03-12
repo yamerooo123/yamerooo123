@@ -53,6 +53,6 @@
 
 | **Category**              |   **Count** |
 |---------------------------|------------------------------------------------|
-| **Server-Side Injection** | 3 |
-| **Server Security Misconfiguration** | 2 | 
+| **Server-Side Injection** | 2 |
+| **Server Security Misconfiguration** | 3 | 
 | **Sensitive Data Exposure** | 1 |
