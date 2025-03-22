@@ -54,5 +54,5 @@
 | **Category**              |   **Count** |
 |---------------------------|------------------------------------------------|
 | **Server-Side Injection** | 2 |
-| **Server Security Misconfiguration** | 3 | 
+| **Server Security Misconfiguration** | 4 | 
 | **Sensitive Data Exposure** | 1 |
