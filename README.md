@@ -4,10 +4,11 @@
 Your action today defines the future you.
 ```
 # 🧾 Credited Contributions
-<a href="https://www.exploit-db.com/exploits/52130">
-  <img src="https://vulners.com/static/img/exploitdb.png" width="100"/><br/>
-  <sub>CVE-2024-48827</sub>
-</a>
+| [![Exploit-DB](https://vulners.com/static/img/exploitdb.png)](https://www.exploit-db.com/exploits/52130) | [![Snyk](https://avatars.githubusercontent.com/u/12959162?s=280&v=4)](https://security.snyk.io/vuln/SNYK-PHP-UNOPIMUNOPIM-8350063) |
+|:--:|:--:|
+| [CVE-2024-48827 - Exploit-DB](https://www.exploit-db.com/exploits/52130) | [CVE-2024-48827 - Snyk Advisory](https://security.snyk.io/vuln/SNYK-PHP-UNOPIMUNOPIM-8350063) |
+
+
 
 
 # 🛡️ Major Contributions
