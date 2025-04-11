@@ -1,5 +1,8 @@
 # 💫 About Me: A lazy pentester...
-🔭 Your action defines your future you. So get ye a55 up and get to work!
+
+```
+Your action today defines the future you.
+```
 
 # 🛡️ Major Contributions:
 
