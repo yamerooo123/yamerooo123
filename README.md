@@ -1,5 +1,5 @@
 # 💫 About Me: A lazy pentester...
-🔭 I’m currently working on something that i myself don't even know. Let the wind of growth guide me to the mountains of knowledge!
+🔭 Your action defines your future you. So get ye a55 up and get to work!
 
 # 🛡️ Major Contributions:
 
