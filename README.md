@@ -3,8 +3,14 @@
 ```
 Your action today defines the future you.
 ```
+# 🧾 Credited Contributions
+<a href="https://www.exploit-db.com/exploits/52130">
+  <img src="https://vulners.com/static/img/exploitdb.png" width="100"/><br/>
+  <sub>CVE-2024-48827</sub>
+</a>
 
-# 🛡️ Major Contributions:
+
+# 🛡️ Major Contributions
 
 - **Women Thailand Cyber Top Talent 2024**: Junior and Open challenge labs creator **[Web]**.
 - **CVE-2024-57276**: Dragon Age Origins - Local Privilege Escalation **[Electronic Art]**.
@@ -12,12 +18,12 @@ Your action today defines the future you.
 - TBD: SuiteCRM - TBD **[Salesagility]**
 
 
-# 🌐 Socials:
+# 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suphawith-phusanbai-39304628b/)
 [![Bugcrowd](https://img.shields.io/badge/bugcrowd-FF4F00?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/SuphawithPhusanbai)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1741753) 
 
-# 💻 Skillsets:
+# 💻 Skillsets
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -29,7 +35,7 @@ Your action today defines the future you.
 ![Burp Suite](https://img.shields.io/badge/burp%20suite-FF5722?style=for-the-badge&logo=burp%20suite&logoColor=white)
 ![Sysinternals](https://img.shields.io/badge/sysinternals-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
 
-# 🎓 Certifications:
+# 🎓 Certifications
 <img src="https://github.com/user-attachments/assets/de1f83b4-a24d-4dba-b8f8-aafe98455997" alt="Certification" width="200" />
 
 <img src="https://github.com/user-attachments/assets/61d3ee8c-0be5-48cf-951f-c7f9b1084082" alt="Certification" width="200" />
