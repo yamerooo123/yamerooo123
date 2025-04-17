@@ -65,3 +65,4 @@ Your action today defines the future you.
 | **Server-Side Injection** | 2 |
 | **Server Security Misconfiguration** | 4 | 
 | **Sensitive Data Exposure** | 1 |
+| **Android** | 1 |
