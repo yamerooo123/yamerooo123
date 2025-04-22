@@ -6,7 +6,7 @@ Your action today defines the future you.
 # 🧾 Credited Contributions
 
 | <a href="https://www.exploit-db.com/exploits/52130"><img src="https://vulners.com/static/img/exploitdb.png" width="150"></a> | <a href="https://security.snyk.io/vuln/SNYK-PHP-UNOPIMUNOPIM-8350063"><img src="https://avatars.githubusercontent.com/u/12959162?s=280&v=4" width="150"></a> | <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrP5WkRS-vg7pnBcAJfyUPH1QXwCWIMjplIA&s" width="150"></a> | 
-|:--:|:--:|:--:| :--:|
+|:--:|:--:|:--:| 
 | [Exploit-DB](https://www.exploit-db.com/exploits/52130) | [Snyk Advisory](https://security.snyk.io/vuln/SNYK-PHP-UNOPIMUNOPIM-8350063) |  [CVE coming soon](comingsoon)|
 
 # 🛡️ Major Contributions
