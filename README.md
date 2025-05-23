@@ -11,10 +11,10 @@ Your action today defines the future you.
 
 # 🛡️ Major Contributions
 
-- **Women Thailand Cyber Top Talent 2024**: Junior and Open challenge labs creator **[Web]**.
 - **CVE-2024-57276**: Dragon Age Origins - Local Privilege Escalation **[Electronic Art]**.
 - **CVE-2024-52305**: UnoPIM - Stored Cross-Site Scripting **[Webkul]**
 - TBD: SuiteCRM - TBD **[Salesagility]**
+- **Women Thailand Cyber Top Talent 2024**: Junior and Open challenge labs creator **[Web]**.
 
 
 # 🌐 Socials
