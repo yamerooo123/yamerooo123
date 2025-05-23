@@ -1,7 +1,7 @@
 # 💫 About Me: A lazy pentester...
 
 ```
-Your action today defines the future you.
+Let me break your app but you gotta fix it yourself :P
 ```
 # 🧾 Credited Contributions
 
