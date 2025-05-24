@@ -9,9 +9,13 @@ Let me break your app but you gotta fix it yourself :P
 |:--:|:--:|:--:| 
 | [Exploit-DB](https://www.exploit-db.com/exploits/52130) | [Snyk Advisory](https://security.snyk.io/vuln/SNYK-PHP-UNOPIMUNOPIM-8350063) |  [CVE coming soon](comingsoon)|
 
-# 🛡️ Major Contributions
+# 🛡️ Security Reported
 
-- **CVE-2024-57276**: Dragon Age Origins - Local Privilege Escalation **[Electronic Art]**.
+| <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-57276"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Electronic-Arts-Logo.svg" width="150"></a> | <a href="https://avatars.githubusercontent.com/u/176464716?v=4"><img src="https://avatars.githubusercontent.com/u/176464716?v=4" width="150"></a> | <a href=""><img src="https://www.liveagent.com/app/uploads/2019/10/presta-shop.png" width="150"></a> | 
+|:--:|:--:|:--:| 
+| [Dragon Age Origins](https://nvd.nist.gov/vuln/detail/CVE-2024-57276) | [UnoPIM](https://nvd.nist.gov/vuln/detail/CVE-2024-52305) |  [CVE Coming Soon](CVEcomingsoon)|
+
+
 - **CVE-2024-52305**: UnoPIM - Stored Cross-Site Scripting **[Webkul]**
 - TBD: SuiteCRM - TBD **[Salesagility]**
 - **Women Thailand Cyber Top Talent 2024**: Junior and Open challenge labs creator **[Web]**.
