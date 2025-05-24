@@ -15,9 +15,6 @@ Let me break your app but you gotta fix it yourself :P
 |:--:|:--:|:--:| 
 | [Dragon Age Origins](https://nvd.nist.gov/vuln/detail/CVE-2024-57276) | [UnoPIM](https://nvd.nist.gov/vuln/detail/CVE-2024-52305) |  [CVE Coming Soon](CVEcomingsoon)|
 
-
-- **CVE-2024-52305**: UnoPIM - Stored Cross-Site Scripting **[Webkul]**
-- TBD: SuiteCRM - TBD **[Salesagility]**
 - **Women Thailand Cyber Top Talent 2024**: Junior and Open challenge labs creator **[Web]**.
 
 
