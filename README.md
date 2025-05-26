@@ -1,7 +1,7 @@
 # 💫 About Me: A lazy pentester...
 
 ```
-Let me break your app but you gotta fix it yourself :P
+Failures are my teacher so i make mistakes every day :D
 ```
 # 🧾 Credited Contributions
 
