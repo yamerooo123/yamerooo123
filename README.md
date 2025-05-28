@@ -1,7 +1,7 @@
 # 💫 About Me: A lazy pentester...
 
 ```
-Failures are my teacher so i make mistakes every day :D
+Current objective: Finding a memory corruption CVE in softwares and web frameworks.
 ```
 # 🧾 Credited Contributions
 
