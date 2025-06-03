@@ -66,4 +66,6 @@ Current objective: Finding a memory corruption CVE in softwares and web framewor
 | **Server-Side Injection** | 2 |
 | **Server Security Misconfiguration** | 4 | 
 | **Sensitive Data Exposure** | 1 |
+| **External behavior** | 1 |
 | **Android** | 1 |
+
