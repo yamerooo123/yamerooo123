@@ -17,6 +17,10 @@ Current objective: Finding a memory corruption CVE in softwares and web framewor
 
 - **Women Thailand Cyber Top Talent 2024**: Junior and Open challenge labs creator **[Web]**.
 
+# HackerOne Hall of Fame
+| <a href="https://hackerone.com/resurrect20"><img src="https://diversiq.com/wp-content/uploads/2024/08/Aon-Square-Logo.png" width="150"></a> |
+|:--:|
+| [AON](https://hackerone.com/resurrect20) |
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suphawith-phusanbai-39304628b/)
