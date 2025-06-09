@@ -63,7 +63,7 @@ Current objective: Finding a memory corruption CVE in softwares and web framewor
 | **Privilege Escalation**  | 2          | 
 
 #  :rotating_light: Bug Bounty Programs & Vulnerability Disclosure Programs:
-<p> My Bugcrowd Profile: https://bugcrowd.com/SuphawithPhusanbai (Will try my best to gitgud)</p>
+<p> My Bugcrowd Profile: https://bugcrowd.com/SuphawithPhusanbai (Retired. BugCrowd is too suck)</p>
 
 | **Category**              |   **Count** |
 |---------------------------|------------------------------------------------|
