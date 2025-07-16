@@ -62,7 +62,7 @@ Current objective: IDK ive so many things in mind.
 | **Remote Code Execution** | 2 |
 | **Privilege Escalation**  | 2          | 
 
-# Proficiecy
+# Proficiency
 
 <h3>This is based on my own evaluation!</h3>
 
