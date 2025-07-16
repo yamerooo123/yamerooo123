@@ -62,14 +62,16 @@ Current objective: IDK ive so many things in mind.
 | **Remote Code Execution** | 2 |
 | **Privilege Escalation**  | 2          | 
 
-#  :rotating_light: Bug Bounty Programs & Vulnerability Disclosure Programs:
-<p> My Bugcrowd Profile: https://bugcrowd.com/SuphawithPhusanbai (Retired. BugCrowd is too suck)</p>
+# Proficiecy
 
-| **Category**              |   **Count** |
-|---------------------------|------------------------------------------------|
-| **Server-Side Injection** | 2 |
-| **Server Security Misconfiguration** | 4 | 
-| **Sensitive Data Exposure** | 1 |
-| **External behavior** | 1 |
-| **Android** | 1 |
-
+<h3>This is based on my own evaluation!</h3>
+```mermaid
+pie title Pentest Skills
+    "Web apps" : 8
+    "Softwares" : 8
+    "Mobile apps" : 3
+    "Code review" : 6
+    "Research" : 8
+    "Binary exploit" : 4
+    "Reverse engineer" : 5
+    
