@@ -65,13 +65,13 @@ Current objective: IDK ive so many things in mind.
 # Proficiecy
 
 <h3>This is based on my own evaluation!</h3>
+
 ```mermaid
 pie title Pentest Skills
-    "Web apps" : 8
-    "Softwares" : 8
-    "Mobile apps" : 3
-    "Code review" : 6
+    "Web Apps" : 8
+    "Software" : 8
+    "Mobile Apps" : 3
+    "Code Review" : 6
     "Research" : 8
-    "Binary exploit" : 4
-    "Reverse engineer" : 5
-    
+    "Binary Exploit" : 4
+    "Reverse Engineer" : 5
