@@ -1,7 +1,7 @@
 # 💫 About Me: A lazy pentester...
 
 ```
-Current objective: IDK ive so many things in mind. 
+Current objective: Working on a custom tool for my daily job.
 ```
 # 🧾 Credited Contributions
 
