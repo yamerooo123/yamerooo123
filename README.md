@@ -3,24 +3,27 @@
 ```
 Current objective: Working on a custom web-based tool for my daily job.
 ```
-# 🧾 Credited Contributions
+# 🏢 Corporation security reported
 
-| <a href="https://www.exploit-db.com/exploits/52130"><img src="https://vulners.com/static/img/exploitdb.png" width="150"></a> | <a href="https://security.snyk.io/vuln/SNYK-PHP-UNOPIMUNOPIM-8350063"><img src="https://avatars.githubusercontent.com/u/12959162?s=280&v=4" width="150"></a> | <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrP5WkRS-vg7pnBcAJfyUPH1QXwCWIMjplIA&s" width="150"></a> | 
-|:--:|:--:|:--:| 
-| [Exploit-DB](https://www.exploit-db.com/exploits/52130) | [Snyk Advisory](https://security.snyk.io/vuln/SNYK-PHP-UNOPIMUNOPIM-8350063) |  [CVE coming soon](comingsoon)|
+| <a href="https://hackerone.com/resurrect20"><img src="https://diversiq.com/wp-content/uploads/2024/08/Aon-Square-Logo.png" width="150"></a> | <a href="https://hackerone.com/tomtom/thanks"><img src="https://github.com/user-attachments/assets/3d18cb6f-8b17-4de8-9893-5a6679a7ec38" width="150"></a> | <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-57276"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Electronic-Arts-Logo.svg" width="150"></a> |
+|:--:| :--:|:--:|
+| [AON](https://hackerone.com/resurrect20) | [TomTom](https://hackerone.com/tomtom/thanks) | [Electronic Arts](https://nvd.nist.gov/vuln/detail/CVE-2024-57276)
 
-# 🛡️ Security Reported
+# 💻 Open Source Software security reported
 
-| <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-57276"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Electronic-Arts-Logo.svg" width="150"></a> | <a href="https://avatars.githubusercontent.com/u/176464716?v=4"><img src="https://avatars.githubusercontent.com/u/176464716?v=4" width="150"></a> | 
+| <a href="https://avatars.githubusercontent.com/u/176464716?v=4"><img src="https://avatars.githubusercontent.com/u/176464716?v=4" width="150"></a> |  <a href=""><img src="https://watcharr.app/assets/images/logo-col-37c668a2218e2b196ff0975b82f00920.png" width="150"></a> | <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrP5WkRS-vg7pnBcAJfyUPH1QXwCWIMjplIA&s" width="150"></a> | 
+|:--:| :--:|:--:|
+| [UnoPIM](https://nvd.nist.gov/vuln/detail/CVE-2024-52305) | [Watcharr](https://github.com/sbondCo/Watcharr/releases/tag/v1.44.0) | [CVE coming soon](comingsoon)|
+
+# 🏛️ Public advisory 
+
+| <a href="https://www.exploit-db.com/exploits/52130"><img src="https://vulners.com/static/img/exploitdb.png" width="150"></a> | <a href="https://security.snyk.io/vuln/SNYK-PHP-UNOPIMUNOPIM-8350063"><img src="https://avatars.githubusercontent.com/u/12959162?s=280&v=4" width="150"></a> | 
 |:--:|:--:|
-| [Dragon Age Origins](https://suphawith-phusanbai.gitbook.io/book-of-suphawith) | [UnoPIM](https://nvd.nist.gov/vuln/detail/CVE-2024-52305) |
+| [Exploit-DB](https://www.exploit-db.com/exploits/52130) | [Snyk Advisory](https://security.snyk.io/vuln/SNYK-PHP-UNOPIMUNOPIM-8350063) |
+
+# 📑 Misc.
 
 - **Women Thailand Cyber Top Talent 2024**: Junior and Open challenge labs creator **[Web]**.
-
-# HackerOne Thanks
-| <a href="https://hackerone.com/resurrect20"><img src="https://diversiq.com/wp-content/uploads/2024/08/Aon-Square-Logo.png" width="150"></a> | <a href="https://hackerone.com/tomtom/thanks"><img src="https://github.com/user-attachments/assets/3d18cb6f-8b17-4de8-9893-5a6679a7ec38" width="150"></a> |
-|:--:| :--:|
-| [AON](https://hackerone.com/resurrect20) | [TomTom](https://hackerone.com/tomtom/thanks) |
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suphawith-phusanbai-39304628b/)
