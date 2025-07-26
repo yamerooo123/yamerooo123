@@ -15,11 +15,11 @@ Current objective: Working on a custom web-based tool for my daily job.
 |:--:| :--:|:--:|
 | [UnoPIM](https://nvd.nist.gov/vuln/detail/CVE-2024-52305) | [Watcharr](https://github.com/sbondCo/Watcharr/releases/tag/v1.44.0) | [CVE coming soon](comingsoon)|
 
-# 🏛️ Public advisory 
+# 🏛️ Public advisory & exploitation 
 
-| <a href="https://www.exploit-db.com/exploits/52130"><img src="https://vulners.com/static/img/exploitdb.png" width="150"></a> | <a href="https://security.snyk.io/vuln/SNYK-PHP-UNOPIMUNOPIM-8350063"><img src="https://avatars.githubusercontent.com/u/12959162?s=280&v=4" width="150"></a> | 
-|:--:|:--:|
-| [Exploit-DB](https://www.exploit-db.com/exploits/52130) | [Snyk Advisory](https://security.snyk.io/vuln/SNYK-PHP-UNOPIMUNOPIM-8350063) |
+| <a href="https://www.exploit-db.com/exploits/52130"><img src="https://vulners.com/static/img/exploitdb.png" width="150"></a> | <a href="https://security.snyk.io/vuln/SNYK-PHP-UNOPIMUNOPIM-8350063"><img src="https://avatars.githubusercontent.com/u/12959162?s=280&v=4" width="150"></a> |  <a href="https://github.com/advisories/GHSA-cgr4-c233-h733"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="150"></a> |
+|:--:|:--:|:--:|
+| [Exploit-DB](https://www.exploit-db.com/exploits/52130) | [Snyk Advisory](https://security.snyk.io/vuln/SNYK-PHP-UNOPIMUNOPIM-8350063) | [Github](https://github.com/advisories/GHSA-cgr4-c233-h733) |
 
 # 📑 Misc.
 
