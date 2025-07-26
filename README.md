@@ -10,7 +10,7 @@ Current objective: Working on a custom web-based tool for my daily job.
 | [AON](https://hackerone.com/resurrect20) | [TomTom](https://hackerone.com/tomtom/thanks) | [Electronic Arts](https://nvd.nist.gov/vuln/detail/CVE-2024-57276)
 
 # 💻 Open Source Software security reported
-
+**The maintainers of these OSS projects collaborated following Coordinated Vulnerability Disclosure (CVD) practices.**
 | <a href="https://avatars.githubusercontent.com/u/176464716?v=4"><img src="https://avatars.githubusercontent.com/u/176464716?v=4" width="150"></a> |  <a href=""><img src="https://watcharr.app/assets/images/logo-col-37c668a2218e2b196ff0975b82f00920.png" width="150"></a> | <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrP5WkRS-vg7pnBcAJfyUPH1QXwCWIMjplIA&s" width="150"></a> | <a href=https://nvd.nist.gov/vuln/detail/CVE-2024-57277><img src="https://avatars.githubusercontent.com/u/172059761?s=200&v=4" width="150"></a> | <a href=https://github.com/ever-co/ever-traduora><img src="https://gitlab.com/uploads/-/system/group/avatar/6052546/ever_brand.jpg" width="150"></a> |
 |:--:| :--:|:--:|:--:|:--:|
 | [UnoPIM](https://nvd.nist.gov/vuln/detail/CVE-2024-52305) | [Watcharr](https://github.com/sbondCo/Watcharr/releases/tag/v1.44.0) | [CVE coming soon](comingsoon) | [InnoShop](https://github.com/innocommerce/innoshop/issues/115) | [Ever® Traduora](https://github.com/ever-co/ever-traduora/issues/431) |
