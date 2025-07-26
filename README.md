@@ -23,7 +23,7 @@ Current objective: Working on a custom web-based tool for my daily job.
 
 # 📑 Misc.
 
-- **Women Thailand Cyber Top Talent 2024**: Junior and Open challenge labs creator **[Web]**.
+- **Women Thailand Cyber Top Talent 2024**: **[Web app category]** Junior and Open challenge labs creator .
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suphawith-phusanbai-39304628b/)
