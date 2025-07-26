@@ -11,9 +11,9 @@ Current objective: Working on a custom web-based tool for my daily job.
 
 # 🛡️ Security Reported
 
-| <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-57276"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Electronic-Arts-Logo.svg" width="150"></a> | <a href="https://avatars.githubusercontent.com/u/176464716?v=4"><img src="https://avatars.githubusercontent.com/u/176464716?v=4" width="150"></a> | <a href=""><img src="https://www.liveagent.com/app/uploads/2019/10/presta-shop.png" width="150"></a> | 
-|:--:|:--:|:--:| 
-| [Dragon Age Origins](https://suphawith-phusanbai.gitbook.io/book-of-suphawith) | [UnoPIM](https://nvd.nist.gov/vuln/detail/CVE-2024-52305) |  [CVE Coming Soon](CVEcomingsoon)|
+| <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-57276"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Electronic-Arts-Logo.svg" width="150"></a> | <a href="https://avatars.githubusercontent.com/u/176464716?v=4"><img src="https://avatars.githubusercontent.com/u/176464716?v=4" width="150"></a> | 
+|:--:|:--:|
+| [Dragon Age Origins](https://suphawith-phusanbai.gitbook.io/book-of-suphawith) | [UnoPIM](https://nvd.nist.gov/vuln/detail/CVE-2024-52305) |
 
 - **Women Thailand Cyber Top Talent 2024**: Junior and Open challenge labs creator **[Web]**.
 
