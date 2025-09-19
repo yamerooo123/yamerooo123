@@ -1,7 +1,7 @@
 # 💫 About Me: A lazy pentester...
 
 ```
-Current objective: Working on a custom web-based tool for my daily job.
+Current objective: Want to rest but my head just keep thinking :(
 ```
 # 🏢 Corporation & Government security reported
 
