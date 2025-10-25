@@ -1,7 +1,7 @@
-# 💫 About Me: A lazy pentester...
+# 💫 My blog
 
 ```
-Current objective: Want to rest but my head just keep thinking :(
+https://suphawith-phusanbai.gitbook.io/suphawithphusanbai
 ```
 # 🏢 Corporation & Government security reported
 
