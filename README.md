@@ -1,4 +1,4 @@
-# 💫 My blog
+# 💫 My blogs
 
 ```
 https://suphawith-phusanbai.gitbook.io/suphawithphusanbai
