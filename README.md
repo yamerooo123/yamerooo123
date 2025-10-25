@@ -1,6 +1,4 @@
-# 💫 My blogs
-
-[Gitbook website](https://suphawith-phusanbai.gitbook.io/suphawithphusanbai)
+# 💫 My blogs - [Gitbook website](https://suphawith-phusanbai.gitbook.io/suphawithphusanbai)
 
 # 🏢 Corporation & Government security reported
 
