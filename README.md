@@ -2,9 +2,15 @@
 
 # 🏢 Corporation & Government security reported
 
-| <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-57276"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Electronic-Arts-Logo.svg" width="150"></a> | <a href="https://support.hp.com/us-en/document/ish_13012432-13012454-16/hpsbhf04050"><img src="https://www.centralitcity.com/images/editor/1200px-HP_logo_2012.png" width="150"></a> | <a href="https://hackerone.com/resurrect20?type=user"><img src="https://thumbs.dreamstime.com/b/web-183282704.jpg" width="150"></a> | <a href="https://hackerone.com/tomtom/thanks"><img src="https://github.com/user-attachments/assets/3d18cb6f-8b17-4de8-9893-5a6679a7ec38" width="150"></a> | <a href="https://hackerone.com/resurrect20"><img src="https://diversiq.com/wp-content/uploads/2024/08/Aon-Square-Logo.png" width="150"></a> | <a href="https://github.com/yamerooo123/ResearchNBugBountyEncyclopedia/blob/main/Contributions/LoA_ThaiCERT.jpg"><img src="https://www.thaicert.or.th/wp-content/uploads/2023/02/ncert_logo.jpg" width="150"></a> |
-|:--:| :--:|:--:|:--:|:--:|:--:|
-| [EA](https://nvd.nist.gov/vuln/detail/CVE-2024-57276)| [HP](https://support.hp.com/us-en/document/ish_13012432-13012454-16/hpsbhf04050) | [SONY](https://hackerone.com/resurrect20?type=user)  | [Tomtom](https://hackerone.com/resurrect20?type=user) | [AON](https://github.com/yamerooo123/ResearchNBugBountyEncyclopedia/blob/main/Contributions/LoA_ThaiCERT.jpg)| [ThaiCERT](https://github.com/yamerooo123/ResearchNBugBountyEncyclopedia/blob/main/Contributions/LoA_ThaiCERT.jpg)
+| <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-57276"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Electronic-Arts-Logo.svg" width="150"></a> | <a href="https://support.hp.com/us-en/document/ish_13012432-13012454-16/hpsbhf04050"><img src="https://www.centralitcity.com/images/editor/1200px-HP_logo_2012.png" width="150"></a> | <a href="https://hackerone.com/resurrect20?type=user"><img src="https://thumbs.dreamstime.com/b/web-183282704.jpg" width="150"></a> | <a href="#"><img src="https://cdn2.steamgriddb.com/icon_thumb/3b782fa395459a50d498b04c3ed93093.png" width="150"></a> |
+| :--: | :--: | :--: | :--: |
+| [EA](https://nvd.nist.gov/vuln/detail/CVE-2024-57276) | [HP](https://support.hp.com/us-en/document/ish_13012432-13012454-16/hpsbhf04050) | [SONY](https://hackerone.com/resurrect20?type=user) | [Razer](https://github.com/yamerooo123/ResearchNBugBountyEncyclopedia/blob/main/Contributions/Razer-security-report.png) |
+
+<br>
+
+| <a href="https://github.com/yamerooo123/ResearchNBugBountyEncyclopedia/blob/main/Contributions/LoA_ThaiCERT.jpg"><img src="https://www.thaicert.or.th/wp-content/uploads/2023/02/ncert_logo.jpg" width="150"></a> | <a href="https://hackerone.com/tomtom/thanks"><img src="https://github.com/user-attachments/assets/3d18cb6f-8b17-4de8-9893-5a6679a7ec38" width="150"></a> | <a href="https://hackerone.com/resurrect20"><img src="https://diversiq.com/wp-content/uploads/2024/08/Aon-Square-Logo.png" width="150"></a> |
+| :--: | :--: | :--: |
+| [ThaiCERT](https://github.com/yamerooo123/ResearchNBugBountyEncyclopedia/blob/main/Contributions/LoA_ThaiCERT.jpg) | [Tomtom](https://hackerone.com/tomtom/thanks) | [AON](https://hackerone.com/resurrect20) |
 
 # 💻 Open Source Software security reported
 **The maintainers of these OSS projects collaborated following Coordinated Vulnerability Disclosure (CVD) practices.**
