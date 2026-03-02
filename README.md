@@ -52,20 +52,7 @@
 <img src="https://github.com/user-attachments/assets/571ad5eb-f191-4ed2-ae2c-6a7fd7f652e8" alt="Certification" width="200" />
 
 <img src="https://github.com/user-attachments/assets/313b2170-32be-47fe-b5a7-4526566ad810" alt="Certification" width="200" />
-
-
-# 🏆 CVE Contributions
-
-<h3>🌟 Achievements: 9/100 CVEs 🌟</h3>
-
-<p> Check out my work: https://github.com/yamerooo123/CVE </p>
-
-| **Category**              |   **Count** |
-|---------------------------|------------------------------------------------|
-| **Cross-Site Scripting (XSS)** | 3 |
-| **Authentication Bypass** | 2 | 
-| **Remote Code Execution** | 2 |
-| **Privilege Escalation**  | 2          | 
+ 
 
 # Proficiency
 
