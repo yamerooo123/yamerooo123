@@ -2,9 +2,9 @@
 
 # 🏢 Corporation & Government security reported
 
-| <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-57276"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Electronic-Arts-Logo.svg" width="150"></a> | <a href="https://support.hp.com/us-en/document/ish_13012432-13012454-16/hpsbhf04050"><img src="https://www.centralitcity.com/images/editor/1200px-HP_logo_2012.png" width="150"></a> | <a href="https://hackerone.com/resurrect20?type=user"><img src="https://thumbs.dreamstime.com/b/web-183282704.jpg" width="150"></a> | <a href="#"><img src="https://cdn2.steamgriddb.com/icon_thumb/3b782fa395459a50d498b04c3ed93093.png" width="150"></a> |
-| :--: | :--: | :--: | :--: |
-| [EA](https://nvd.nist.gov/vuln/detail/CVE-2024-57276) | [HP](https://support.hp.com/us-en/document/ish_13012432-13012454-16/hpsbhf04050) | [SONY](https://hackerone.com/resurrect20?type=user) | [Razer](https://github.com/yamerooo123/ResearchNBugBountyEncyclopedia/blob/main/Contributions/Razer-security-report.png) |
+| <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="150"></a> | <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-57276"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Electronic-Arts-Logo.svg" width="150"></a> | <a href="https://support.hp.com/us-en/document/ish_13012432-13012454-16/hpsbhf04050"><img src="https://www.centralitcity.com/images/editor/1200px-HP_logo_2012.png" width="150"></a> | <a href="https://hackerone.com/resurrect20?type=user"><img src="https://thumbs.dreamstime.com/b/web-183282704.jpg" width="150"></a> | <a href="#"><img src="https://cdn2.steamgriddb.com/icon_thumb/3b782fa395459a50d498b04c3ed93093.png" width="150"></a> |
+| :--: | :--: | :--: | :--: | :--: |
+| [Microsoft (Coming soon)](#) | [EA](https://nvd.nist.gov/vuln/detail/CVE-2024-57276) | [HP](https://support.hp.com/us-en/document/ish_13012432-13012454-16/hpsbhf04050) | [SONY](https://hackerone.com/resurrect20?type=user) | [Razer](https://github.com/yamerooo123/ResearchNBugBountyEncyclopedia/blob/main/Contributions/Razer-security-report.png) |
 
 <br>
 
