@@ -1,1 +1,1 @@
-Bruhhh.. if only i could speak like machine code
+Bruhhh.. if only i could speak machine code..
