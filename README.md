@@ -1,1 +1,1 @@
-# 💫 About me - [Showcase website](https://0xsup.xyz/)
+Bruhhh.. if only i could speak like machine code
